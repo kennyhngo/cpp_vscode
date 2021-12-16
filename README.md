@@ -4,7 +4,7 @@ Make sure you have the 'Code Runner' extension installed.
 If you are having trouble finding *settings.json*, following these steps:
 1. Go into VSCode settings (cmd + ,) on Mac
 2. In the search bar, type 'Code Runner Executor Map'
-3. Press 'Edit in in settings.json'
+3. Press 'Edit in settings.json'
 
 **ONLY IF YOU ARE RUNNING MacOS M1 Chip**
 
