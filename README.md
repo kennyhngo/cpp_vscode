@@ -1,7 +1,7 @@
 Every time you make a new C++ directory, change *launch.json* and *tasks.json* to the files in this repo.
 
 Make sure you have the 'Code Runner' extension installed.
-If you are having trouble finding *settings.json*, following these steps:
+If you are having trouble finding *settings.json*, follow these steps:
 1. Go into VSCode settings [ (cmd + ,) on Mac ]
 2. In the search bar, type 'Code Runner Executor Map'
 3. Press 'Edit in settings.json'
