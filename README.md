@@ -1,9 +1,9 @@
 Every time you make a new C++ directory, change *launch.json* and *tasks.json* to the files in this repo.
 
-If you are running on MacOS M1 Chip, add the following line to *launch.json* in configurations: \
+If you are running on MacOS M1 Chip, add the following line to *launch.json* in configurations:
 * "targetArchitecture": "x86_64"
 
-And in *settings.json* add the following code: \
+And in *settings.json* add the following code:
 *  "cmake.configureArgs": [
         "-DCMAKE_OSX_ARCHITECTURES=x86_64"
     ]
