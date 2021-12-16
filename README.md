@@ -10,6 +10,8 @@ If you are having trouble finding *settings.json*, following these steps:
 If your *settings.json* file is not empty, do not copy the braces on lines 1 and 10. Add the code from lines 2 to 9 into
 your json object.
 
+<br>
+
 **ONLY IF YOU ARE RUNNING MacOS M1 Chip**
 
 If you are running on MacOS M1 Chip, add the following line to *launch.json* in configurations:
