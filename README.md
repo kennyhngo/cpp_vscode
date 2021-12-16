@@ -7,6 +7,7 @@ If you are having trouble finding *settings.json*, following these steps:
 3. Press 'Edit in in settings.json'
 
 **ONLY IF YOU ARE RUNNING MacOS M1 Chip**
+
 If you are running on MacOS M1 Chip, add the following line to *launch.json* in configurations:
 * "targetArchitecture": "x86_64"
 
